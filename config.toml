@@ -5,9 +5,9 @@ copyright = "The Harbor authors"
 
 ignoreFiles = [
     "content/docs/*.md",
+    "content/docs/*.sh",
     "content/docs/adopters",
     "content/docs/security",
-    "content/docs/prepare-swagger.sh",
     "README.md"
 ]
 

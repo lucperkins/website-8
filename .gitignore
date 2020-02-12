@@ -5,6 +5,10 @@
 public*/
 resources/
 
+# Link checker assets #
+bin/
+tmp/
+
 # Content from goharbor/harbor repo
 content/docs/
 

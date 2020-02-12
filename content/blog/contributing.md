@@ -119,15 +119,14 @@ Harbor repo. Now we're ready to create a Pull Request.
 
 
 #### Creating a Pull Request
+
 This is perhaps the easiest part of the process. Head over to your fork on
-GitHub:
-[https://www.github.com/<your_username>/harbor]()https://www.github.com/<your_username>/harbor).
+GitHub at `https://www.github.com/<your_username>/harbor`.
 
 A banner at the top of the repo will present you with the option of [creating
 a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
-![Creating a Pull
-Request](https://help.github.com/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
+![Creating a Pull Request](https://help.github.com/assets/images/help/pull_requests/pull-request-review-edit-branch.png)
 
 Make sure the "base" branch is `master` in the `goharbor` organization. This
 tells GitHub to compare your changes (in your branch) to the upstream Harbor
